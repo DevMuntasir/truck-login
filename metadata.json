@@ -1,0 +1,6 @@
+{
+  "name": "Truck Delivery Animated Login",
+  "description": "Interactive animated delivery truck with an embedded login screen, headlight beams, engine sound effects, and forward drive-off transition upon successful authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
